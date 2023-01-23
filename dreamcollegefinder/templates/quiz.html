@@ -1,0 +1,26 @@
+<body style="background: #ececec;">
+    <div style="background: white; margin-left: auto; margin-right: auto; width: 60%; border-radius: .5px; margin-top: 20px;">
+        <div style="background: aliceblue; padding: 4px;">
+            <div style="margin-left: auto; margin-right: auto; width: 24em; text-align: center; font-family: Arial, Helvetica, sans-serif;">
+                <h1>DreamCollegeFinder</h1>
+                <p>Answer the questions below to be matched with the colleges that best fit you</p>
+            </div>
+        </div>
+        <form method="post">
+            {% csrf_token %}
+            <hr style="margin: 0px;"></hr>
+            {% for field in form %}
+                <span style = "margin:10px"></span>
+                <div class="fieldWrapper" style="margin-left:auto; margin-right: auto; border-radius: .5px; border: solid 1px grey; background: #ececec; width: 90%; padding: 20px; font-family: Arial, Helvetica, sans-serif;">
+                    <p style="display: inline;">{{ field.label_tag }}</p> <span style="padding:10px"></span>
+                    {{ field }}
+                </div>
+            {% endfor %}
+            <div style="margin-left:auto; margin-right: auto; width: 10%; margin-top: 20px;">
+                <button style="width: 100%; height: 3em; font-size: 16px; background: aliceblue; border: 1px solid gray; border-radius: 7px;" type="submit">Get Results</button>
+            </div>
+        </form>
+        
+        <span style = "margin:10px"></span>
+    </div>
+</body>

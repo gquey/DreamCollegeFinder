@@ -1,0 +1,24 @@
+<body style="background: #ececec;">
+    <div style="background: white; margin-left: auto; margin-right: auto; width: 60%; border-radius: .5px; margin-top: 20px;">
+        <div style="background: aliceblue; padding: 4px;">
+            <div style="margin-left: auto; margin-right: auto; width: 24em; text-align: center; font-family: Arial, Helvetica, sans-serif;">
+                <h1>DreamCollegeFinder</h1>
+                <p>Here are your results!</p>
+            </div>
+        </div>
+        {% for res in results %}
+            <span style = "margin:10px"></span>
+            <div class="fieldWrapper" style="margin-left:auto; margin-right: auto; border-radius: .5px; border: solid 1px grey; background: #ececec; width: 90%; padding: 20px; font-family: Arial, Helvetica, sans-serif;">
+                <table style="width:100%">    
+                    <tr>
+                        <td style="width: 30%;">Name: <br/>{{ res.1 }}</td>
+                        <td style="width: 22%;">Location: <br/>{{ res.2 }}</td> 
+                        <td style="width: 17%;">Acceptance Rate: <br/>{{ res.3 }}</td> 
+                        <td>Cost of Attendance: <br/>{{ res.4 }}</td>
+                        <td style="width: 10%;"> SAT Range: <br/>{% if res.5 != 'nan' %} {{res.5}} {% else %} Unknown {% endif %}</td>
+                    </tr>
+                </table>
+            </div>
+        {% endfor %}
+    </div>
+</body>

@@ -1,0 +1,207 @@
+Name,Location,Acceptance_Rate,Net_Price,SAT_Range
+Barnard College,"NEW YORK, NY",14%,"$30,572",1350-1520
+Claremont McKenna College,"CLAREMONT, CA",10%,"$24,456",1360-1510
+Middlebury College,"MIDDLEBURY, VT",22%,"$24,517",1340-1520
+Haverford College,"HAVERFORD, PA",18%,"$25,215",1360-1520
+Emory University,"ATLANTA, GA",19%,"$25,672",1380-1530
+Tufts University,"MEDFORD, MA",15%,"$26,280",1390-1540
+Harvey Mudd College,"CLAREMONT, CA",14%,"$39,411",1490-1570
+Washington and Lee University,"LEXINGTON, VA",19%,"$23,301",1360-1500
+University of Michigan - Ann Arbor,"ANN ARBOR, MI",23%,"$17,357",1340-1530
+Wellesley College,"WELLESLEY, MA",22%,"$21,614",1350-1520
+Colby College,"WATERVILLE, ME",10%,"$18,552",1380-1520
+Amherst College,"AMHERST, MA",12%,"$18,832",1430-1560
+New York University,"NEW YORK, NY",21%,"$45,417",1370-1540
+Grinnell College,"GRINNELL, IA",19%,"$32,091",1370-1540
+University of California - Los Angeles,"LOS ANGELES, CA",12%,"$15,718",1300-1530
+Davidson College,"DAVIDSON, NC",20%,"$28,615",1300-1460
+Carleton College,"NORTHFIELD, MN",19%,"$31,547",1360-1540
+University of Virginia,"CHARLOTTESVILLE, VA",24%,"$17,579",1340-1520
+Hamilton College,"CLINTON, NY",18%,"$23,936",1380-1510
+Bates College,"LEWISTON, ME",14%,"$26,451",1385-1460
+Wesleyan University,"MIDDLETOWN, CT",21%,"$22,845",1300-1480
+University of California - Berkeley,"BERKELEY, CA",17%,"$19,329",1310-1530
+Williams College,"WILLIAMSTOWN, MA",13%,"$17,303",1410-1550
+United States Air Force Academy,"USAF ACADEMY, CO",13%,"$20,000",1220-1430
+Georgia Institute of Technology,"ATLANTA, GA",21%,"$16,883",1300-1510
+Massachusetts Institute of Technology,"CAMBRIDGE, MA",7%,"$20,465",1510-1570
+Harvard University,"CAMBRIDGE, MA",5%,"$18,030",1460-1570
+Stanford University,"STANFORD, CA",4%,"$16,779",1440-1570
+Yale University,"NEW HAVEN, CT",6%,"$18,073",1460-1570
+Princeton University,"PRINCETON, NJ",6%,"$18,712",1460-1570
+University of Chicago,"CHICAGO, IL",6%,"$36,584",1500-1570
+Brown University,"PROVIDENCE, RI",7%,"$27,218",1440-1570
+Duke University,"DURHAM, NC",8%,"$24,386",1480-1570
+Dartmouth College,"HANOVER, NH",8%,"$23,869",1440-1560
+Columbia University,"NEW YORK, NY",5%,"$21,828",1440-1570
+University of Pennsylvania,"PHILADELPHIA, PA",8%,"$24,771",1450-1560
+Northwestern University,"EVANSTON, IL",9%,"$26,196",1440-1550
+Rice University,"HOUSTON, TX",9%,"$20,335",1470-1570
+Vanderbilt University,"NASHVILLE, TN",9%,"$25,855",1460-1560
+Washington University in St. Louis,"SAINT LOUIS, MO",14%,"$27,108",1480-1560
+Johns Hopkins University,"BALTIMORE, MD",11%,"$28,999",1460-1560
+Cornell University,"ITHACA, NY",11%,"$28,921",1400-1560
+Pomona College,"CLAREMONT, CA",7%,"$18,500",1390-1540
+California Institute of Technology,"PASADENA, CA",6%,"$27,438",1530-1560
+University of Southern California,"LOS ANGELES, CA",11%,"$37,521",1360-1530
+Carnegie Mellon University,"PITTSBURGH, PA",15%,"$30,618",1460-1560
+University of Notre Dame,"NOTRE DAME, IN",16%,"$30,536",1400-1550
+Bowdoin College,"BRUNSWICK, ME",9%,"$23,808",1360-1510
+Swarthmore College,"SWARTHMORE, PA",9%,"$20,360",1390-1540
+Georgetown University,"WASHINGTON, DC",14%,"$28,442",1380-1550
+Syracuse University,"SYRACUSE, NY",69%,"$47,177",1180-1380
+University of Kansas,"LAWRENCE, KS",91%,"$20,054",1070-1320
+University of Wisconsin,"MADISON, WI",54%,"$16,103",1300-1480
+North Dakota State University,"FARGO, ND",94%,"$16,638",1050-1250
+Texas A&M University,"COLLEGE STATION, TX",58%,"$19,237",1160-1390
+Northwest Missouri State University,"MARYVILLE, MO",80%,"$13,375",990-1180
+Mississippi State University,"MISSISSIPPI STATE, MS",80%,"$16,402",1050-1270
+University of Tennessee,"KNOXVILLE, TN",78%,"$21,133",1140-1320
+University of Georgia,"ATHENS, GA",45%,"$15,961",1240-1420
+Grand Valley State University,"ALLENDALE, MI",83%,"$16,865",1050-1250
+University of Washington,"SEATTLE, WA",56%,"$9,661",1200-1470
+Indiana University - Bloomington,"BLOOMINGTON, IN",78%,"$13,036",1150-1360
+University of Arizona,"TUCSON, AZ",85%,"$15,620",1090-1350
+University of Minnesota Twin Cities,"MINNEAPOLIS, MN",57%,"$17,279",1260-1480
+University of Oregon,"EUGENE, OR",84%,"$17,646",1090-1290
+Arizona State University,"TEMPE, AZ",86%,"$14,081",1120-1360
+University of Iowa,"IOWA CITY, IA",83%,"$17,008",1130-1340
+Appalachian State University,"BOONE, NC",80%,"$10,687",1070-1240
+University of Wisconsin - Whitewater,"WHITEWATER, WI",80%,"$12,522",890-1110
+Texas Christian University,"FORT WORTH, TX",47%,"$37,509",1150-1350
+Boston College,"CHESTNUT HILL, MA",27%,"$28,354",1340-1500
+University of Nebraska - Lincoln,"LINCOLN, NE",78%,"$17,341",1110-1320
+James Madison University,"HARRISONBURG, VA",77%,"$18,708",1120-1290
+University of Florida,"GAINESVILLE, FL",37%,"$10,457",1310-1470
+The University of Alabama,"TUSCALOOSA, AL",83%,"$20,623",1080-1340
+Louisiana State University,"BATON ROUGE, LA",73%,"$20,352",1090-1300
+University of Oklahoma,"NORMAN, OK",80%,"$21,804",1110-1310
+University of North Carolina at Chapel Hill,"CHAPEL HILL, NC",23%,"$10,085",1310-1500
+University of Connecticut,"STORRS, CT",56%,"$22,233",1170-1390
+Florida State University,"TALLAHASSEE, FL",36%,"$12,568",1200-1340
+The Ohio State University,"COLUMBUS, OH",54%,"$18,706",1250-1460
+University of Maryland - College Park,"COLLEGE PARK, MD",44%,"$17,643",1270-1480
+Clemson University,"CLEMSON, SC",51%,"$21,482",1230-1400
+University of Texas - Austin,"AUSTIN, TX",32%,"$15,502",1230-1480
+University of Miami,"CORAL GABLES, FL",27%,"$33,102",1270-1440
+Michigan State University,"EAST LANSING, MI",71%,"$16,579",1100-1320
+Baylor University,"WACO, TX",68%,"$40,133",1200-1380
+Auburn University,"AUBURN, AL",81%,"$23,562",1150-1320
+Villanova University,"VILLANOVA, PA",28%,"$36,840",1320-1470
+University of Kentucky,"LEXINGTON, KY",96%,"$19,831",1070-1280
+University of Louisville,"LOUISVILLE, KY",65%,"$17,894",1050-1270
+University of South Carolina,"COLUMBIA, SC",69%,"$21,787",1180-1370
+Penn State,"UNIVERSITY PARK, PA",56%,"$26,151",1160-1360
+Georgia State University,"ATLANTA, GA",82%,"$17,750",1030-1260
+University of Massachusetts - Boston,"BOSTON, MA",80%,"$17,231",1040-1220
+University of Rochester,"ROCHESTER, NY",35%,"$36,254",1330-1510
+California Institute of the Arts,"VALENCIA, CA",25%,"$59,367",
+Babson College,"WELLESLEY, MA",26%,"$28,325",1270-1450
+Rhode Island School of Design,"PROVIDENCE, RI",26%,"$40,048",1250-1470
+Penn State Abington,"ABINGTON, PA",85%,"$18,792",1010-1270
+Saint Leo University,"SAINT LEO, FL",73%,"$19,818",960-1150
+"Stony Brook University, SUNY","STONY BROOK, NY",49%,"$16,478",1230-1440
+Illinois Institute of Technology,"CHICAGO, IL",61%,"$28,161",1200-1390
+Otis College of Art and Design,"LOS ANGELES, CA",80%,"$46,876",1050-1270
+Suffolk University,"BOSTON, MA",84%,"$34,561",1010-1200
+School of the Art Institute of Chicago,"CHICAGO, IL",78%,"$51,606",1120-1360
+Brandeis University,"WALTHAM, MA",30%,"$41,222",1320-1510
+Berklee College of Music,"BOSTON, MA",51%,"$43,744",
+Lynn University,"BOCA RATON, FL",79%,"$37,524",980-1170
+Andrews University,"BERRIEN SPRINGS, MI",49%,"$22,850",1030-1380
+Nyack College,"NEW YORK, NY",97%,"$18,349",830-1080
+The New School,"NEW YORK, NY",69%,"$50,908",1150-1380
+University of San Francisco,"SAN FRANCISCO, CA",70%,"$42,801",1140-1330
+Hawaii Pacific University,"HONOLULU, HI",75%,"$29,827",970-1160
+Earlham College,"RICHMOND, IN",59%,"$24,474",1110-1330
+Menlo College,"ATHERTON, CA",65%,"$27,052",920-1150
+Rutgers University - New Brunswick,"NEW BRUNSWICK, NJ",67%,"$17,835",1180-1410
+Boston University,"BOSTON, MA",20%,"$29,154",1310-1500
+California College of the Arts,"SAN FRANCISCO, CA",85%,"$43,687",
+Oral Roberts University,"TULSA, OK",78%,"$20,461",980-1220
+Salem University,"SALEM, WV",100%,"$18,753",
+Tulane University,"NEW ORLEANS, LA",11%,"$47,413",1340-1500
+Case Western Reserve University,"CLEVELAND, OH",30%,"$36,002",1340-1520
+University of Richmond,"UNIVERSITY OF RICHMOND, VA",31%,"$25,700",1280-1460
+Washington State University,"PULLMAN, WA",80%,"$17,931",1020-1210
+Purdue University,"WEST LAFAYETTE, IN",67%,"$12,294",1170-1420
+William & Mary,"WILLIAMSBURG, VA",42%,"$18,588",1300-1490
+Lehigh University,"BETHLEHEM, PA",32%,"$26,631",1280-1450
+Drexel University,"PHILADELPHIA, PA",77%,"$39,463",1180-1380
+Michigan Technological University,"HOUGHTON, MI",70%,"$17,356",1160-1350
+Wake Forest University,"WINSTON-SALEM, NC",32%,"$26,324",1270-1410
+Kent State University - Tuscarawas,"NEW PHILADELPHIA, OH",100%,"$9,718",
+The Cooper Union for the Advancement of Science and Art,"NEW YORK, NY",15%,"$25,005",1330-1500
+Hodges University,"FORT MYERS, FL",61%,"$21,204",
+Rochester University,"ROCHESTER HILLS, MI",99%,"$17,649",840-1060
+Monroe College - Bronx/New Rochelle,"BRONX, NY",49%,"$12,330",
+Penn State Lehigh Valley,"CENTER VALLEY, PA",85%,"$18,152",1010-1200
+Ohio University - Chillicothe,"CHILLICOTHE, OH",100%,"$7,985",
+Everglades University,"BOCA RATON, FL",75%,"$30,154",
+St. Johns River State College,"PALATKA, FL",100%,"$5,266",
+University of Mount Olive,"MOUNT OLIVE, NC",58%,"$14,805",900-1110
+South College - Knoxville,"KNOXVILLE, TN",100%,"$11,654",
+Gurnick Academy - San Mateo Campus,"SAN MATEO, CA",100%,"$26,274",
+Keiser University - Fort Lauderdale,"FORT LAUDERDALE, FL",97%,"$31,371",
+Mercy College,"DOBBS FERRY, NY",82%,"$15,721",930-1110
+Mount Saint Mary's University Los Angeles,"LOS ANGELES, CA",90%,"$27,346",900-1110
+University of Maine at Fort Kent,"FORT KENT, ME",99%,"$12,162",880-1070
+University of the Cumberlands,"WILLIAMSBURG, KY",80%,"$13,764",930-1140
+Herzing University - Orlando,"WINTER PARK, FL",92%,"$23,379",
+Granite State College,"CONCORD, NH",100%,"$13,051",
+Metropolitan College of New York,"NEW YORK, NY",40%,"$24,083",
+ECPI University,"VIRGINIA BEACH, VA",80%,"$22,072",
+St. Catherine University,"SAINT PAUL, MN",76%,"$18,912",1080-1240
+Piedmont University,"DEMOREST, GA",70%,"$19,796",980-1160
+Valencia College,"ORLANDO, FL",100%,"$4,901",
+The Master's University,"SANTA CLARITA, CA",60%,"$29,567",990-1250
+Concordia University - St. Paul,"SAINT PAUL, MN",69%,"$16,521",920-1110
+Bay Path University,"LONGMEADOW, MA",78%,"$19,177",940-1170
+Ameritech College of Healthcare,"DRAPER, UT",100%,"$21,608",
+Penn State Worthington Scranton,"DUNMORE, PA",82%,"$17,495",970-1150
+University of Massachusetts Global,"IRVINE, CA",89%,"$24,084",
+Grace Christian University,"WYOMING, MI",100%,"$13,105",
+Molloy College,"ROCKVILLE CENTRE, NY",74%,"$27,454",1080-1250
+Marymount California University,"RANCHO PALOS VERDES, CA",100%,"$30,159",
+University of Sioux Falls,"SIOUX FALLS, SD",92%,"$21,824",1070-1230
+Rasmussen College - Ocala,"OCALA, FL",100%,"$18,862",
+Charter College - Alaska,"VANCOUVER, WA",100%,"$24,737",
+Ohio Christian University,"CIRCLEVILLE, OH",100%,"$23,319",760-980
+National University,"LA JOLLA, CA",89%,"$21,363",750-1170
+St. Joseph's College - New York,"BROOKLYN, NY",71%,"$16,290",1020-1200
+Bryant & Stratton College - Wauwatosa,"WAUWATOSA, WI",100%,"$14,163",
+Galveston College,"GALVESTON, TX",100%,"$4,076",
+St. Petersburg College,"CLEARWATER, FL",100%,"$2,702",
+Collin College,"MCKINNEY, TX",100%,"$6,618",
+Trinity Washington University,"WASHINGTON, DC",96%,"$15,295",
+Cairn University,"LANGHORNE, PA",81%,"$23,396",1000-1250
+Ohio University - Lancaster,"LANCASTER, OH",100%,"$7,270",
+Stanbridge University - Orange County,"IRVINE, CA",35%,"$24,969",
+Central Baptist College,"CONWAY, AR",50%,"$15,547",860-1060
+Metropolitan State University - Minnesota,"SAINT PAUL, MN",56%,"$15,941",
+SUNY Empire State College,"SARATOGA SPRINGS, NY",100%,"$12,059",
+Virginia Tech,"BLACKSBURG, VA",70%,"$18,449",1180-1390
+University of Mississippi,"UNIVERSITY, MS",88%,"$14,672",1020-1250
+University of California - Santa Barbara,"SANTA BARBARA, CA",30%,"$16,767",1230-1480
+University of Illinois Urbana-Champaign,"URBANA, IL",59%,"$14,660",1210-1470
+San Diego State University,"SAN DIEGO, CA",34%,"$14,499",1110-1320
+University of Central Florida,"ORLANDO, FL",44%,"$11,617",1170-1340
+Southern Methodist University,"DALLAS, TX",47%,"$40,404",1300-1480
+Kansas State University,"MANHATTAN, KS",95%,"$18,103",
+University of Dayton,"DAYTON, OH",72%,"$33,372",1120-1320
+University of Cincinnati,"CINCINNATI, OH",77%,"$19,219",1120-1350
+Stevens Institute of Technology,"HOBOKEN, NJ",40%,"$40,770",1340-1500
+SUNY Maritime College,"THROGGS NECK, NY",74%,"$18,411",1090-1260
+Rensselaer Polytechnic Institute,"TROY, NY",47%,"$41,006",1290-1490
+Massachusetts Maritime Academy,"BUZZARDS BAY, MA",91%,"$15,424",1020-1180
+Lafayette College,"EASTON, PA",31%,"$26,810",1250-1440
+Worcester Polytechnic Institute,"WORCESTER, MA",49%,"$42,393",1310-1480
+College of the Holy Cross,"WORCESTER, MA",34%,"$34,627",1260-1430
+Clarkson University,"POTSDAM, NY",75%,"$29,891",1160-1350
+Maine Maritime Academy,"CASTINE, ME",45%,"$20,728",1010-1200
+United States Merchant Marine Academy,"KINGS POINT, NY",25%,"$4,617",1190-1330
+Rose-Hulman Institute of Technology,"TERRE HAUTE, IN",74%,"$45,356",1250-1460
+Virginia Military Institute,"LEXINGTON, VA",60%,"$13,428",1090-1270
+Albany College of Pharmacy & Health Sciences,"ALBANY, NY",71%,"$30,358",1150-1330
+Colgate University,"HAMILTON, NY",23%,"$23,503",1330-1500
+Colorado School of Mines,"GOLDEN, CO",53%,"$26,856",1160-1460
